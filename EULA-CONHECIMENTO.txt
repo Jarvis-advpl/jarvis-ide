@@ -1,0 +1,23 @@
+CONTRATO DE LICENÇA — CONHECIMENTO JARVIS
+
+Ao instalar o JARVIS, você concorda que:
+
+1. A consulta à memória canônica (documentação, skills e trechos recuperados) é um
+   serviço de uso, não uma cessão de propriedade intelectual. O acervo permanece
+   da operação JARVIS / TOTVS conforme aplicável.
+
+2. É proibido republicar, revender, espelhar ou drenar a API de recuperação
+   (incluindo scripts que paginem, extraíam ou empacotem o acervo completo).
+
+3. O dicionário SX local é licenciado para uso neste computador. Cópia para outra
+   máquina, engenharia reversa do envelope cifrado ou redistribuição do dict-pack
+   são vedadas.
+
+4. No modo comercial, as chaves dos modelos de linguagem ficam no hub. Você não
+   recebe nem deve gravar chaves de provedor (xAI, Anthropic ou equivalentes) neste
+   computador.
+
+5. Rate-limit, teto de resultados e marca d'água nos trechos existem para impedir
+   extração em massa. Contornar esses limites viola esta licença.
+
+Se não concordar, cancele a instalação.
