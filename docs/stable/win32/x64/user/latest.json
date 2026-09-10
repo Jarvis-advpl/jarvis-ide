@@ -1,8 +1,8 @@
 {
-  "url": "https://github.com/jarvis-advpl/jarvis-ide/releases/download/v2026.2.10/JarvisUserSetup-x64-2026.2.10.exe",
-  "name": "2026.2.10",
-  "version": "4c0b0c6cc561-2026.2.10",
-  "productVersion": "2026.2.10",
-  "timestamp": 1788908801764,
-  "sha256hash": "ae377ca83c874af7f00240e14da0fc7cde38d5db12891c6085587166404e48fc"
+  "url": "https://github.com/jarvis-advpl/jarvis-ide/releases/download/v2026.2.12/JarvisUserSetup-x64-2026.2.12.exe",
+  "name": "2026.2.12",
+  "version": "4c0b0c6cc561-2026.2.12",
+  "productVersion": "2026.2.12",
+  "timestamp": 1789072505395,
+  "sha256hash": "01fb867ccefca081113f54eb3d0060597af73a3fbc7e9910f3cacc7c4c41df35"
 }
